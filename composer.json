@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fpdf/fpdf": "^1.86",
+        "nesbot/carbon": "^3.6"
+    }
+}
